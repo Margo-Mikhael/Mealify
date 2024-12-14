@@ -1,0 +1,16 @@
+:root:has(.mode input:checked) 
+{
+    --color1: #fff;
+    --color2: #fff;
+    --color3: #959595;
+    --primary: #c17e1f;
+    --primary-hover:#D78C23;
+    --section-color:#252525;
+    --section-color2:#202020;
+    --white: #171717;
+    --black:#fff;
+
+    --diff:#0D0D0D;
+    --diff2:#171717;
+}
+
